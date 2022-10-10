@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @chilledwack
+- 👀 I’m interested in Vue，JavaScript
+- 🌱 I’m currently learning Vue3
